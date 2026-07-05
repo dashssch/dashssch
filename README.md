@@ -41,8 +41,6 @@ Get my first remote job and continue growing professionally.
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
-- 📁 Career Portfolio
-
-Thank you for visiting my profile!
+- [📚 Career Portfolio](https://github.com/dashssch/career-portfolio)
