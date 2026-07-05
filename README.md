@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dasha 👋
 
-<!--
-**dashssch/dashssch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a fourth-year language student from Russia, building a career in editing, translation, documentation and modern digital tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Current Goal
+
+Get my first remote job and continue growing professionally.
+
+---
+
+## 🌍 Languages
+
+- 🇷🇺 Russian — Native
+- 🇬🇧 English — B2–C1
+- 🇩🇪 German — B1–B2
+
+---
+
+## 📚 Currently Learning
+
+- GitHub
+- Markdown
+- Git
+- JSON
+- AI tools
+
+---
+
+## 💼 Professional Interests
+
+- Editing
+- Translation
+- Documentation
+- Technical Writing
+- Content
+- Artificial Intelligence
+
+---
+
+## 📂 Featured Project
+
+- 📁 Career Portfolio
+
+Thank you for visiting my profile!
